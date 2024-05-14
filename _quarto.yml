@@ -1,0 +1,8 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  repo-url: https://github.com/bblodfon/inflation-graf/
+  repo-branch: main
+  repo-actions: source
